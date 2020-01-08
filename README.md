@@ -1,2 +1,2 @@
 #StarWarsRanking-XKCD
-(https://raw.githubusercontent.com/astropatel/StarWarsRanking-XKCD/blob/master/StarWarsOrdering_small.png)
+![Image](https://github.com/astropatel/StarWarsRanking-XKCD/blob/master/StarWarsOrdering_small.png)
