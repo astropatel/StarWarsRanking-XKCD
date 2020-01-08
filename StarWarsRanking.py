@@ -132,5 +132,5 @@ with plt.xkcd():
     plt.yticks([])
     plt.xticks([])
     plt.tight_layout()
-    plt.savefig('StarWarsOrdering_revised.png',dpi=500)
+    plt.savefig('StarWarsOrdering_small.png',dpi=250)
     plt.show()
